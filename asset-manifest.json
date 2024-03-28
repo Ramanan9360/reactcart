@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactcart/static/css/main.a2e8927e.css",
+    "main.js": "/reactcart/static/js/main.f6e848ce.js",
+    "static/media/vivot2x5g.png": "/reactcart/static/media/vivot2x5g.897f96ce936ec31e76cc.png",
+    "static/media/pocom6pro.png": "/reactcart/static/media/pocom6pro.1e1d38d8d2fc7629ffed.png",
+    "static/media/realme115g.png": "/reactcart/static/media/realme115g.6e001ada53d585c7461b.png",
+    "static/media/samsunggalaxym14.png": "/reactcart/static/media/samsunggalaxym14.52c0e05ea8c940e1ee9c.png",
+    "static/media/motoe13.png": "/reactcart/static/media/motoe13.8962885aa215842d382b.png",
+    "static/media/googlepixel7.png": "/reactcart/static/media/googlepixel7.e0710e9d08d0a5772176.png",
+    "static/media/iphone13.png": "/reactcart/static/media/iphone13.a28151f0ac80b81fd3bc.png",
+    "static/media/iphone14.png": "/reactcart/static/media/iphone14.073655e20c58df65c064.png",
+    "static/media/samsung.png": "/reactcart/static/media/samsung.82246f6faba5fe8744da.png",
+    "static/media/realme.png": "/reactcart/static/media/realme.02864de5ee8d250490bf.png",
+    "static/media/vivo.png": "/reactcart/static/media/vivo.0d7279992d564e7c595d.png",
+    "static/media/poco.png": "/reactcart/static/media/poco.71636ddd5b51d107c654.png",
+    "static/media/iphone.png": "/reactcart/static/media/iphone.8837744c89c93a4880ba.png",
+    "static/media/google.png": "/reactcart/static/media/google.d6192d6e3f126869e6db.png",
+    "index.html": "/reactcart/index.html",
+    "main.a2e8927e.css.map": "/reactcart/static/css/main.a2e8927e.css.map",
+    "main.f6e848ce.js.map": "/reactcart/static/js/main.f6e848ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e8927e.css",
+    "static/js/main.f6e848ce.js"
+  ]
+}
